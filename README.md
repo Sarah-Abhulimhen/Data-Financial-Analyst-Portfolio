@@ -1,4 +1,4 @@
-# Data Analyst Portfolio – Sarah Abhulimhen
+# Data/Financial Analyst Portfolio – Sarah Abhulimhen
 Welcome to my data analyst portfolio. This repository showcases my work in financial analysis, business strategy, and data-driven decision making.
 I hold a degree in Economics and an MBA, with experience analysing complex data to generate insights and support strategic business decisions. My work focuses on translating data into clear, actionable recommendations.
 
