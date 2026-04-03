@@ -12,7 +12,7 @@ Liquidity remained stable, while gearing reduced from 71% to 63%, indicating imp
 
 Overall, the analysis concludes that Coca-Cola is a financially strong and stable company with consistent growth, efficient capital utilisation, and solid investment potential despite moderate cost pressures.
 
-## Business Problem## Business Problem
+## Business Problem
 Should Software Solutions invest in The Coca-Cola Company based on its financial performance, efficiency, and long-term growth potential over the past four years (2020–2023)?
 
 ## Methodology
