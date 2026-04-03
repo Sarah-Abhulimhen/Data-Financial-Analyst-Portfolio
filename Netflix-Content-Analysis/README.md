@@ -26,10 +26,10 @@ Streaming platforms rely on data to guide content investment decisions. This pro
 ## Data Cleaning (Excel – Power Query)
 
 * Removed duplicates
-* Replaced missing values with **"Unknown"**
+* Replaced missing values with "Unknown"
 * Standardized formats
 * Extracted numerical values from duration
-* Created new feature: **Duration Type (Movie vs TV Show Seasons)**
+* Created new feature: Duration Type (Movie vs TV Show Seasons)
 
 ## Analysis (Excel)
 
@@ -39,7 +39,9 @@ Built pivot tables and charts to analyze:
 * Ratings distribution
 * Movie duration distribution
 * TV show season distribution
-* Top producing countries
+* Top 10 producing countries
+* Distribution of Movies vs TV Shows
+* Average content duration
 
 Developed an Excel dashboard to summarize findings.
 
@@ -51,19 +53,17 @@ Created an interactive dashboard featuring:
 * Distribution of content by rating
 * Top genres on Netflix
 * Global content distribution map
-* KPI cards (Total Titles, Movies, TV Shows)
+* KPI cards (Total Titles, Movies, TV Shows, Top Country)
 * Year slicer for dynamic filtering
 
 ## Key Insights
 
-* Netflix content experienced rapid growth after **2016**, peaking around **2019–2020**
-* Movies dominate the platform (~70%), significantly more than TV shows
-* Most movies fall within the **90–120 minute range**, indicating standard viewing preferences
-* **TV-MA** is the most common rating, suggesting a focus on mature audiences
-* The **United States** is the leading content producer
-* **Drama** and **International Movies** are the most popular genres
-
----
+* Netflix content experienced rapid growth after 2016, peaking in 2019
+* Movies dominate the platform (70%), significantly more than TV shows
+* Most movies fall within the 101–150 minute range, indicating standard viewing preferences
+* TV-MA is the most common rating, suggesting a focus on mature audiences
+* The United States is the leading content producer
+* International Movies and Drama are the most popular genres
 
 ## Recommendations
 
@@ -73,18 +73,17 @@ Created an interactive dashboard featuring:
 * Increase production in emerging global markets
 * Optimize content duration based on viewer preferences
 
-## 🛠 Tools & Skills
+## Tools & Skills
 
 * Microsoft Excel (Power Query, Pivot Tables, Data Cleaning)
-* Power BI (Data Visualization, Dashboard Design, DAX basics)
+* Power BI (Data Visualization, Dashboard Design)
 * Data Analysis
 * Data Storytelling
 
 ## Project Files
 
-* `Netflix_Analysis.xlsx` → Data cleaning, analysis, Excel dashboard
-* `Netflix_Dashboard.pbix` → Power BI dashboard
-* `Netflix_Report.pdf` → Structured analysis report
+* `Netflix_Dataset.xlsx` → Data cleaning, analysis, Excel dashboard
+* `Netflix_PowerBI.pbix` → Power BI dashboard
 
 ## Key Takeaway
 
