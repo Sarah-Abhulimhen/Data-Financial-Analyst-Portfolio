@@ -37,7 +37,7 @@ This analysis answers the following key questions:
 ### 1. Data Preparation
 
 - Cleaned dataset in Excel  
-- Removed formatting issues (e.g., currency symbols)  
+- Removed formatting issues (currency symbols)  
 - Imported dataset into MySQL  
 - Ensured correct data types (especially numeric fields)  
 
@@ -74,7 +74,7 @@ Insight: Pricing or discount strategy may be flawed
 
 ### Discount Impact on Profit
 - Clear negative relationship between discount and profit
-- Discounts above 30–40% often lead to losses 
+- Discounts above 30-40% often lead to losses 
 - Some categories (e.g., Furniture) are more sensitive to discounts  
 
 Insight: Aggressive discounting is hurting profitability  
@@ -91,8 +91,8 @@ Insight: Business relies heavily on individual consumers
 Insight: High-value customers should be prioritized  
 
 ### Shipping Performance
-- **Same Day & First Class** → fastest delivery  
-- **Standard Class** → slowest (~5 days on average)  
+- **Same Day & First Class** - fastest delivery  
+- **Standard Class** -slowest (over 5 days on average)  
 
 Insight: Trade-off between cost and delivery speed  
 
